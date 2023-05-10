@@ -81,12 +81,12 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(..//d012/imagens/bisteca.PNG);
+    background-image: url(./imagens/bisteca.PNG);
     background-position: center center;
 }
 
 section#img02 {
-    background-image: url(..//d012/imagens/capa-face.png);
+    background-image: url(./imagens/capa-face.png);
     background-repeat: no-repeat;
     background-position: center center;
 }
